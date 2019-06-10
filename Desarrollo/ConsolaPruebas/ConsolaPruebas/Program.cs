@@ -2,6 +2,7 @@
 using DAL.Navegador;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -65,8 +66,14 @@ namespace ConsolaPruebas
 
             #region Calculamos el modelo
 
+
+            // Prueba generar modelo
+            BLL.ControladorBLL.GenerarModelo(datos);
+
             // parseamos de string al tipo que corresponda
-            BLL.ControladorBLL.ConvertirDatos(datos);
+            //BLL.ControladorBLL.ConvertirDatos(datos);
+
+
 
             #endregion
             ;

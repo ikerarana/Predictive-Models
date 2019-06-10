@@ -24,7 +24,7 @@ namespace BLL
 
         #region Metodos
 
-   
+
         /// <summary>
         /// Baja los datos de la URL que recibe por parametro
         /// </summary>
@@ -47,6 +47,17 @@ namespace BLL
             throw new NotImplementedException();
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="datos"></param>
+        public static void GenerarModelo(List<List<string>> datos)
+        {
+
+            GeneracionModelos.Modelos.GenerarModelo();
+
+            throw new NotImplementedException();
+        }
 
         #endregion
     }
