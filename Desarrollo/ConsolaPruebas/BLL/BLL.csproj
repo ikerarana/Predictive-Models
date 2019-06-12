@@ -49,9 +49,9 @@
       <Project>{91e74d87-9a03-4d45-9fdb-1121a4ad4ddc}</Project>
       <Name>DAL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\GeneracionModelos\GeneracionModelos.csproj">
+    <ProjectReference Include="..\GeneracionModelos\ML_Utilidades.csproj">
       <Project>{0ad47a6c-dc80-4b5e-afa7-3fe3835f1f63}</Project>
-      <Name>GeneracionModelos</Name>
+      <Name>ML_Utilidades</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

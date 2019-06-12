@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{1E83
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utilidades", "Utilidades", "{8DE55DBB-49C1-4368-BA5A-8BD11B344E8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneracionModelos", "GeneracionModelos\GeneracionModelos.csproj", "{0AD47A6C-DC80-4B5E-AFA7-3FE3835F1F63}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ML_Utilidades", "GeneracionModelos\ML_Utilidades.csproj", "{0AD47A6C-DC80-4B5E-AFA7-3FE3835F1F63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

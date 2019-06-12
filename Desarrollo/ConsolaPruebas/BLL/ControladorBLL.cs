@@ -36,6 +36,30 @@ namespace BLL
         }
 
         /// <summary>
+        /// Metodo para cargar los datos de un fichero ARFF
+        /// </summary>
+        /// <param name="ruta">Directorio donde se encuentra el fichero</param>
+        /// <returns></returns>
+        public static List<List<string>> CargarFicheroARFF(string ruta)
+        {
+
+            return DAL.AccesoDatosDAL.CargarDatosFicheroARFF(ruta);
+
+        }
+
+        /// <summary>
+        /// Metodo para cargar los datos de un fichero CSV
+        /// </summary>
+        /// <param name="ruta">Directorio donde se encuentra el fichero</param>
+        /// <returns></returns>
+        public static List<List<string>> CargarFicheroCSV(string ruta)
+        {
+
+            return DAL.AccesoDatosDAL.CargarDatosFicheroCSV(ruta);
+
+        }
+
+        /// <summary>
         /// Convertimos los datos del modelo a la estructura de datos que corresponda
         /// </summary>
         /// <param name="datos"></param>
@@ -56,8 +80,11 @@ namespace BLL
 
             GeneracionModelos.Modelos.GenerarModelo();
 
-            throw new NotImplementedException();
         }
+
+
+
+
 
         #endregion
     }

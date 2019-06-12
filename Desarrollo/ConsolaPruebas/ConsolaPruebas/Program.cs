@@ -13,25 +13,20 @@ namespace ConsolaPruebas
     {
         static void Main(string[] args)
         {
+            List<List<string>> datos;
+
+            #region Acceso a Datos
+
+            #region Descargar un fichero de UCI-ML
 
             #region Descargar Datos
 
             // introducimos URL donde encontrar el dataset
 
-            var url = "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/";
+            //var url = "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/";
 
-            // pedimos los datos al controlador
-            List<List<string>> datos = BLL.ControladorBLL.DescargarDatosURL(url);
-
-            #endregion
-
-            #region Pintamos los datos
-
-            // pintamos los datos
-            foreach (List<string> fila in datos)
-            {
-                Console.WriteLine(String.Join(",", fila));
-            }
+            //// pedimos los datos al controlador
+            //datos = BLL.ControladorBLL.DescargarDatosURL(url);
 
             #endregion
 
@@ -55,7 +50,51 @@ namespace ConsolaPruebas
             //// insertamos los nombres en la primera posicion de la lista de datos
             //datos.Insert(0, nombresCabeceras);
 
-            datos.Insert(0, new List<string>() { "sepal length", "sepal width", "petal length", "petal width", "class" });
+            // datos.Insert(0, new List<string>() { "sepal length", "sepal width", "petal length", "petal width", "class" });
+
+
+            #endregion
+
+            #endregion
+
+            #region Cargar fichero arff
+
+            //Console.WriteLine("Introduzca la ruta del fichero .arff");
+            //string ruta = Console.ReadLine();
+
+            //// Para la prueba cogemos una ruta en la que sepamos que hay un fichero
+            //ruta = Path.GetFullPath
+            //    (Path.Combine(Directory.GetCurrentDirectory(), @"..\..\..\..\..\Documentos\iris.arff")); ;
+
+            //// Cargamos los datos del fichero
+            //datos = BLL.ControladorBLL.CargarFicheroARFF(ruta);
+
+            #endregion
+
+            #region Cargar fichero CSV
+
+            Console.WriteLine("Introduzca la ruta del fichero .csv");
+            string ruta = Console.ReadLine();
+
+            // Para la prueba cogemos una ruta en la que sepamos que hay un fichero
+            ruta = Path.GetFullPath
+                (Path.Combine(Directory.GetCurrentDirectory(), @"..\..\..\..\..\Documentos\iris.csv")); ;
+
+            // 
+            datos = BLL.ControladorBLL.CargarFicheroCSV(ruta);
+
+            #endregion
+
+
+            #region Pintamos los datos
+
+            // pintamos los datos
+            foreach (List<string> fila in datos)
+            {
+                Console.WriteLine(String.Join(",", fila));
+            }
+
+            #endregion
 
 
             #endregion

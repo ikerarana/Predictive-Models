@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -30,10 +31,46 @@ namespace DAL
         {
             // pedimos que descarge los datos
             return Navegador.DescargarURLNavegador.DescargarFicheroDatos(url);
-                       
-            
+
+
         }
 
+        /// <summary>
+        /// Carga los datos de un fichero ARFF
+        /// </summary>
+        /// <param name="directorio">Directorio del que tiene que cargar los datos</param>
+        /// <returns></returns>
+        public static List<List<string>> CargarDatosFicheroARFF(string directorio)
+        {
+            if (File.Exists(directorio))
+            {
+                // pedimos que descarge los datos
+                return Ficheros.CargarDatosFichero.CargarDatosFicheroARFF(directorio);
+            }
+            else
+            {
+                // TODO: que retornar si es nulo?
+                Console.WriteLine("El fichero no existe");
+                throw new Exception("El fichero no existe");
+            }
+
+
+
+
+        }
+
+        /// <summary>
+        /// Carga los datos de un fichero CSV
+        /// </summary>
+        /// <param name="directorio">Directorio del que tiene que cargar los datos</param>
+        /// <returns></returns>
+        public static List<List<string>> CargarDatosFicheroCSV(string directorio)
+        {
+            // pedimos que descarge los datos
+            return Ficheros.CargarDatosFichero.CargarDatosFicheroCSV(directorio);
+
+
+        }
 
         #endregion
     }

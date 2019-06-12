@@ -27,7 +27,6 @@ namespace GeneracionModelos
             if (data.classIndex() == -1)
                 data.setClassIndex(data.numAttributes() - 1);
 
-            #region Iker
 
             #region Discretizacion
 
@@ -346,9 +345,6 @@ namespace GeneracionModelos
 
             #endregion
 
-
-
-            #endregion
 
         }
 

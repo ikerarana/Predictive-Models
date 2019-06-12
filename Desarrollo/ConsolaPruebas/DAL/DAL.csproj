@@ -42,8 +42,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AccesoDatosDAL.cs" />
+    <Compile Include="Ficheros\CargarDatosFichero.cs" />
     <Compile Include="Navegador\DescargarURLNavegador.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GeneracionModelos\ML_Utilidades.csproj">
+      <Project>{0ad47a6c-dc80-4b5e-afa7-3fe3835f1f63}</Project>
+      <Name>ML_Utilidades</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
