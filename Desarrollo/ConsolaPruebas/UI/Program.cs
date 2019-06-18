@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using UI.Formularios;
+using UI.AdvancedUI;
 
 namespace UI
 {
@@ -17,7 +18,7 @@ namespace UI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Principal());
+            Application.Run(new DashBoard());
         }
     }
 }
