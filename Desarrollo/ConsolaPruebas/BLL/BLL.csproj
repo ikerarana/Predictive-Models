@@ -53,6 +53,10 @@
       <Project>{0ad47a6c-dc80-4b5e-afa7-3fe3835f1f63}</Project>
       <Name>ML_Utilidades</Name>
     </ProjectReference>
+    <ProjectReference Include="..\UtilidadesGenerales\UtilidadesGenerales.csproj">
+      <Project>{efb4bf6c-3729-41cb-ae53-c2f0caeeb1d2}</Project>
+      <Name>UtilidadesGenerales</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

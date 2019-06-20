@@ -28,16 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DashBoard));
             this.tLPBase = new System.Windows.Forms.TableLayoutPanel();
             this.tLPBase2 = new System.Windows.Forms.TableLayoutPanel();
+            this.panelDatos = new System.Windows.Forms.Panel();
             this.tLPIzquierda = new System.Windows.Forms.TableLayoutPanel();
             this.buttonEvaluacion = new System.Windows.Forms.Button();
             this.buttonVisua = new System.Windows.Forms.Button();
             this.buttonSeleccionar = new System.Windows.Forms.Button();
             this.panelIconoPrograma = new System.Windows.Forms.Panel();
             this.buttonDatos = new System.Windows.Forms.Button();
-            this.panelDatos = new System.Windows.Forms.Panel();
             this.tLPBase.SuspendLayout();
             this.tLPBase2.SuspendLayout();
             this.tLPIzquierda.SuspendLayout();
@@ -71,6 +70,15 @@
             this.tLPBase2.Size = new System.Drawing.Size(999, 704);
             this.tLPBase2.TabIndex = 0;
             // 
+            // panelDatos
+            // 
+            this.panelDatos.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panelDatos.Location = new System.Drawing.Point(0, 0);
+            this.panelDatos.Margin = new System.Windows.Forms.Padding(0);
+            this.panelDatos.Name = "panelDatos";
+            this.panelDatos.Size = new System.Drawing.Size(999, 704);
+            this.panelDatos.TabIndex = 0;
+            // 
             // tLPIzquierda
             // 
             this.tLPIzquierda.ColumnCount = 1;
@@ -101,7 +109,7 @@
             this.buttonEvaluacion.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonEvaluacion.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonEvaluacion.ForeColor = System.Drawing.Color.White;
-            this.buttonEvaluacion.Image = ((System.Drawing.Image)(resources.GetObject("buttonEvaluacion.Image")));
+            this.buttonEvaluacion.Image = global::UI.Properties.Resources.evaluacion;
             this.buttonEvaluacion.Location = new System.Drawing.Point(0, 560);
             this.buttonEvaluacion.Margin = new System.Windows.Forms.Padding(0);
             this.buttonEvaluacion.Name = "buttonEvaluacion";
@@ -121,7 +129,7 @@
             this.buttonVisua.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonVisua.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonVisua.ForeColor = System.Drawing.Color.White;
-            this.buttonVisua.Image = ((System.Drawing.Image)(resources.GetObject("buttonVisua.Image")));
+            this.buttonVisua.Image = global::UI.Properties.Resources.modelos;
             this.buttonVisua.Location = new System.Drawing.Point(0, 420);
             this.buttonVisua.Margin = new System.Windows.Forms.Padding(0);
             this.buttonVisua.Name = "buttonVisua";
@@ -141,7 +149,7 @@
             this.buttonSeleccionar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonSeleccionar.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonSeleccionar.ForeColor = System.Drawing.Color.White;
-            this.buttonSeleccionar.Image = ((System.Drawing.Image)(resources.GetObject("buttonSeleccionar.Image")));
+            this.buttonSeleccionar.Image = global::UI.Properties.Resources.graficar;
             this.buttonSeleccionar.Location = new System.Drawing.Point(0, 280);
             this.buttonSeleccionar.Margin = new System.Windows.Forms.Padding(0);
             this.buttonSeleccionar.Name = "buttonSeleccionar";
@@ -170,7 +178,7 @@
             this.buttonDatos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonDatos.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonDatos.ForeColor = System.Drawing.Color.White;
-            this.buttonDatos.Image = ((System.Drawing.Image)(resources.GetObject("buttonDatos.Image")));
+            this.buttonDatos.Image = global::UI.Properties.Resources.carga_datos;
             this.buttonDatos.Location = new System.Drawing.Point(0, 140);
             this.buttonDatos.Margin = new System.Windows.Forms.Padding(0);
             this.buttonDatos.Name = "buttonDatos";
@@ -181,15 +189,6 @@
             this.buttonDatos.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.buttonDatos.UseVisualStyleBackColor = true;
             this.buttonDatos.Click += new System.EventHandler(this.buttonDatos_Click);
-            // 
-            // panelDatos
-            // 
-            this.panelDatos.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelDatos.Location = new System.Drawing.Point(0, 0);
-            this.panelDatos.Margin = new System.Windows.Forms.Padding(0);
-            this.panelDatos.Name = "panelDatos";
-            this.panelDatos.Size = new System.Drawing.Size(999, 704);
-            this.panelDatos.TabIndex = 0;
             // 
             // DashBoard
             // 

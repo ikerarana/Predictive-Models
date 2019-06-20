@@ -11,6 +11,7 @@ D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarr
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\bin\Debug\UI.exe
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\bin\Debug\UI.pdb
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\bin\Debug\BLL.dll
+D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\bin\Debug\UtilidadesGenerales.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\bin\Debug\DAL.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\bin\Debug\GeneracionModelos.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\bin\Debug\weka.dll
@@ -32,9 +33,13 @@ D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarr
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\bin\Debug\IKVM.OpenJDK.Corba.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\bin\Debug\IKVM.OpenJDK.Misc.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\bin\Debug\BLL.pdb
+D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\bin\Debug\UtilidadesGenerales.pdb
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\bin\Debug\DAL.pdb
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\bin\Debug\GeneracionModelos.pdb
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\obj\Debug\UI.csprojAssemblyReference.cache
+D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\obj\Debug\UI.AdvancedUI.Controles_de_Usuario.CargarDatosUC.resources
+D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\obj\Debug\UI.AdvancedUI.Controles_de_Usuario.CargarDatos.InsertarURLUC.resources
+D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\obj\Debug\UI.AdvancedUI.Controles_de_Usuario.CargarDatos.SeleccionTipoFichero.resources
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\obj\Debug\UI.AdvancedUI.DashBoard.resources
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\obj\Debug\UI.Formularios.Principal.resources
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\obj\Debug\UI.Properties.Resources.resources
@@ -43,4 +48,3 @@ D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarr
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\obj\Debug\UI.csproj.CopyComplete
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\obj\Debug\UI.exe
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\obj\Debug\UI.pdb
-D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UI\obj\Debug\UI.AdvancedUI.Controles_de_Usuario.CargarDatosUC.resources

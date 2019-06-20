@@ -7,17 +7,18 @@ D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\Desarrollo\Co
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\Desarrollo\ConsolaPruebas\BLL\bin\Debug\DAL.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\Desarrollo\ConsolaPruebas\BLL\bin\Debug\DAL.pdb
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\Desarrollo\ConsolaPruebas\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\BLL.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\BLL.pdb
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\DAL.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\GeneracionModelos.dll
+D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\UtilidadesGenerales.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\weka.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\IKVM.OpenJDK.Core.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\IKVM.Runtime.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\IKVM.OpenJDK.XML.API.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\IKVM.OpenJDK.Util.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\IKVM.OpenJDK.Security.dll
-D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\IKVM.OpenJDK.Beans.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\IKVM.OpenJDK.Text.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\IKVM.OpenJDK.Management.dll
@@ -31,6 +32,7 @@ D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarr
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\IKVM.OpenJDK.Misc.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\DAL.pdb
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\GeneracionModelos.pdb
+D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\bin\Debug\UtilidadesGenerales.pdb
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\BLL\obj\Debug\BLL.csproj.CopyComplete

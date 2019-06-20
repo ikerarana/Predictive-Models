@@ -1,0 +1,5 @@
+D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UtilidadesGenerales\bin\Debug\UtilidadesGenerales.dll
+D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UtilidadesGenerales\bin\Debug\UtilidadesGenerales.pdb
+D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UtilidadesGenerales\obj\Debug\UtilidadesGenerales.csproj.CoreCompileInputs.cache
+D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UtilidadesGenerales\obj\Debug\UtilidadesGenerales.dll
+D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\UtilidadesGenerales\obj\Debug\UtilidadesGenerales.pdb

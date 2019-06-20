@@ -46,11 +46,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdvancedUI\Controles de Usuario\CargarDatosUC.cs">
+    <Compile Include="AdvancedUI\Controles de Usuario\CargarDatos\CargarDatosUC.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="AdvancedUI\Controles de Usuario\CargarDatosUC.Designer.cs">
+    <Compile Include="AdvancedUI\Controles de Usuario\CargarDatos\CargarDatosUC.Designer.cs">
       <DependentUpon>CargarDatosUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvancedUI\Controles de Usuario\CargarDatos\InsertarURLUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdvancedUI\Controles de Usuario\CargarDatos\InsertarURLUC.Designer.cs">
+      <DependentUpon>InsertarURLUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvancedUI\Controles de Usuario\CargarDatos\SeleccionTipoFichero.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdvancedUI\Controles de Usuario\CargarDatos\SeleccionTipoFichero.Designer.cs">
+      <DependentUpon>SeleccionTipoFichero.cs</DependentUpon>
     </Compile>
     <Compile Include="AdvancedUI\Controles de Usuario\ElegirModelosUC.cs">
       <SubType>UserControl</SubType>
@@ -84,8 +96,14 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="AdvancedUI\Controles de Usuario\CargarDatosUC.resx">
+    <EmbeddedResource Include="AdvancedUI\Controles de Usuario\CargarDatos\CargarDatosUC.resx">
       <DependentUpon>CargarDatosUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvancedUI\Controles de Usuario\CargarDatos\InsertarURLUC.resx">
+      <DependentUpon>InsertarURLUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvancedUI\Controles de Usuario\CargarDatos\SeleccionTipoFichero.resx">
+      <DependentUpon>SeleccionTipoFichero.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\DashBoard.resx">
       <DependentUpon>DashBoard.cs</DependentUpon>
@@ -101,6 +119,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -120,7 +139,46 @@
       <Project>{f355932d-8383-41f4-924f-f48eb54b2566}</Project>
       <Name>BLL</Name>
     </ProjectReference>
+    <ProjectReference Include="..\UtilidadesGenerales\UtilidadesGenerales.csproj">
+      <Project>{efb4bf6c-3729-41cb-ae53-c2f0caeeb1d2}</Project>
+      <Name>UtilidadesGenerales</Name>
+    </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\importarDatos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carga datos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\evaluacion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graficar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modelos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\csv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\website.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clickOK.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -31,13 +31,12 @@ namespace UI.AdvancedUI
 
         private void buttonDatos_Click(object sender, EventArgs e)
         {
-            buttonDatos.BackColor = Color.FromArgb(176, 196, 222);
+            buttonDatos.BackColor = Color.FromArgb(125, 132, 146);
             buttonEvaluacion.BackColor = Color.FromArgb(41, 44, 51);
             buttonSeleccionar.BackColor = Color.FromArgb(41, 44, 51);
             buttonVisua.BackColor = Color.FromArgb(41, 44, 51);
 
             // añadimos el control de usuario
-            //panelDatos.Controls.Add(new PanelPrueba());
             if (!panelDatos.Controls.Contains(CargarDatosUC.Instancia))
             {
                 panelDatos.Controls.Add(CargarDatosUC.Instancia);
@@ -53,7 +52,7 @@ namespace UI.AdvancedUI
         {
             buttonDatos.BackColor = Color.FromArgb(41, 44, 51);
             buttonEvaluacion.BackColor = Color.FromArgb(41, 44, 51);
-            buttonSeleccionar.BackColor = Color.FromArgb(176, 196, 222);
+            buttonSeleccionar.BackColor = Color.FromArgb(125, 132, 146);
             buttonVisua.BackColor = Color.FromArgb(41, 44, 51);
         }
 
@@ -62,13 +61,13 @@ namespace UI.AdvancedUI
             buttonDatos.BackColor = Color.FromArgb(41, 44, 51);
             buttonEvaluacion.BackColor = Color.FromArgb(41, 44, 51);
             buttonSeleccionar.BackColor = Color.FromArgb(41, 44, 51);
-            buttonVisua.BackColor = Color.FromArgb(176, 196, 222);
+            buttonVisua.BackColor = Color.FromArgb(125, 132, 146);
         }
 
         private void buttonEvaluacion_Click(object sender, EventArgs e)
         {
             buttonDatos.BackColor = Color.FromArgb(41, 44, 51);
-            buttonEvaluacion.BackColor = Color.FromArgb(176, 196, 222);
+            buttonEvaluacion.BackColor = Color.FromArgb(125, 132, 146);
             buttonSeleccionar.BackColor = Color.FromArgb(41, 44, 51);
             buttonVisua.BackColor = Color.FromArgb(41, 44, 51);
         }

@@ -1,3 +1,4 @@
+D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\GeneracionModelos\bin\Debug\IKVM.OpenJDK.Management.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\GeneracionModelos\bin\Debug\GeneracionModelos.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\GeneracionModelos\bin\Debug\GeneracionModelos.pdb
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\GeneracionModelos\bin\Debug\IKVM.OpenJDK.Core.dll
@@ -9,7 +10,6 @@ D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarr
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\GeneracionModelos\bin\Debug\IKVM.OpenJDK.XML.API.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\GeneracionModelos\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\GeneracionModelos\bin\Debug\IKVM.OpenJDK.Beans.dll
-D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\GeneracionModelos\bin\Debug\IKVM.OpenJDK.Management.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\GeneracionModelos\bin\Debug\IKVM.OpenJDK.Remoting.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\GeneracionModelos\bin\Debug\IKVM.OpenJDK.Media.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\GeneracionModelos\bin\Debug\IKVM.Runtime.JNI.dll

@@ -20,6 +20,7 @@ D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarr
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\ConsolaPruebas\bin\Debug\DAL.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\ConsolaPruebas\bin\Debug\UI.exe
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\ConsolaPruebas\bin\Debug\GeneracionModelos.dll
+D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\ConsolaPruebas\bin\Debug\UtilidadesGenerales.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\ConsolaPruebas\bin\Debug\weka.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\ConsolaPruebas\bin\Debug\IKVM.OpenJDK.Core.dll
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\ConsolaPruebas\bin\Debug\IKVM.Runtime.dll
@@ -43,6 +44,7 @@ D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarr
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\ConsolaPruebas\bin\Debug\UI.pdb
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\ConsolaPruebas\bin\Debug\UI.exe.config
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\ConsolaPruebas\bin\Debug\GeneracionModelos.pdb
+D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\ConsolaPruebas\bin\Debug\UtilidadesGenerales.pdb
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\ConsolaPruebas\obj\Debug\ConsolaPruebas.csprojAssemblyReference.cache
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\ConsolaPruebas\obj\Debug\ConsolaPruebas.csproj.CoreCompileInputs.cache
 D:\1.-GIT\1. Egibide\Desarrollo de Interfaces 2018-2019\1.NET\Weka\WekaIA\Desarrollo\ConsolaPruebas\ConsolaPruebas\obj\Debug\ConsolaPruebas.csproj.CopyComplete
