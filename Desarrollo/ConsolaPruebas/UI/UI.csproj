@@ -82,6 +82,12 @@
     <Compile Include="AdvancedUI\Controles de Usuario\PintarDatosUC.Designer.cs">
       <DependentUpon>PintarDatosUC.cs</DependentUpon>
     </Compile>
+    <Compile Include="AdvancedUI\Controles de Usuario\PintarDatos\PintarDatosUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdvancedUI\Controles de Usuario\PintarDatos\PintarDatosUC.Designer.cs">
+      <DependentUpon>PintarDatosUC.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formularios\DashBoard.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -104,6 +110,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="AdvancedUI\Controles de Usuario\CargarDatos\SeleccionTipoFichero.resx">
       <DependentUpon>SeleccionTipoFichero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvancedUI\Controles de Usuario\PintarDatos\PintarDatosUC.resx">
+      <DependentUpon>PintarDatosUC.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\DashBoard.resx">
       <DependentUpon>DashBoard.cs</DependentUpon>

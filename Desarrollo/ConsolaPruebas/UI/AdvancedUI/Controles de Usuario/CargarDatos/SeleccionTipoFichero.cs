@@ -82,10 +82,22 @@ namespace UI.AdvancedUI.Controles_de_Usuario.CargarDatos
 
         }
 
-
+        /// <summary>
+        /// Cargar los datos de un fichero
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void buttonCargarDatos_Click(object sender, EventArgs e)
         {
-
+            //// añadimos el control de usuario
+            //if (!panelDatos.Controls.Contains(CargarDatosUC.Instancia))
+            //{
+            //    panelDatos.Controls.Add(CargarDatosUC.Instancia);
+            //    CargarDatosUC.Instancia.Dock = DockStyle.Fill;
+            //    CargarDatosUC.Instancia.BringToFront();
+            //}
+            //else
+            //    CargarDatosUC.Instancia.BringToFront();
         }
         #endregion
 
